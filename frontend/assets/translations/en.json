@@ -1,0 +1,229 @@
+{
+  "index": {
+    "title": "Your money made simple.",
+    "description": "Track your income and expenses with ease through clean, clear visuals.",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithApple": "Continue with Apple",
+    "continueWithGoogleDescription": "Continue with google to save your data",
+    "continueWithAppleDescription": "Continue with google or apple to save your data",
+    "byContinuing": "By continuing, you agree to our",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "onboarding": {
+    "title": "Select Main Currency"
+  },
+  "currencyChange": {
+    "title": "Change Currency"
+  },
+  "common": {
+    "loading": "Loading...",
+    "and": "and",
+    "language": "en",
+    "processing": "Processing..."
+  },
+  "header": {
+    "profile": "Profile",
+    "account": "Account",
+    "addIncome": "Add Income",
+    "addExpense": "Add Expense",
+    "editIncome": "Edit Income",
+    "editExpense": "Edit Expense",
+    "categories": "Categories",
+    "changeCurrency": "Change Currency",
+    "addCurrency": "Add Currencies",
+    "programmedRecords": "Programmed",
+    "home": "Home",
+    "appInfo": "App Info",
+    "onboarding": "Select Main Currency",
+    "selectLanguage": "Select Language",
+    "recurrentRecords": "Recurrent",
+    "wallets": "Wallets",
+    "reportsConfig": "Exclude Categories"
+  },
+  "searchInput": {
+    "placeholder": "Search a currency"
+  },
+  "currencySelector": {
+    "title": "Add Currency",
+    "continue": "Continue",
+    "error": "Please select a currency"
+  },
+  "profile": {
+    "changeMainCurrency": "Change Main Currency",
+    "reportsConfig": "Report Categories",
+    "categories": "Categories",
+    "programmedRecords": "Programmed Records",
+    "signOut": "Sign Out",
+    "appInfo": "App Info",
+    "language": "Language",
+    "recurrentRecords": "Recurrent Records",
+    "account": "Account",
+    "wallets": "Wallets"
+  },
+  "categoriesScreen": {
+    "title": "Categories",
+    "addCategory": "Add Category",
+    "noCategories": "Add your first category",
+    "addCategoryPlaceholder": "Add category",
+    "saveChanges": "Save Changes"
+  },
+  "signature": {
+    "madeBy": "Made by",
+    "dante": "Dante 🚀"
+  },
+  "home": {
+    "lastRecords": "Last Records",
+    "seeAll": "See all",
+    "programmedRecords": "Programmed Records",
+    "recurrentRecords": "Recurrent Records"
+  },
+  "tabs": {
+    "home": "Home",
+    "records": "Records",
+    "reports": "Reports"
+  },
+  "recordList": {
+    "fallbackText": "Add records to see your history"
+  },
+  "evaluation": {
+    "totalIncome": "Total Income",
+    "totalExpenses": "Total Expenses",
+    "totalBalance": "Total Balance",
+    "title": "Total Balance"
+  },
+  "exchangeRates": {
+    "title": "Exchange Rates",
+    "exchangeRate": "Exchange Rate"
+  },
+  "expensePerCategory": {
+    "title": "Expense Per Category",
+    "noExpenses": "Add expenses to see this chart"
+  },
+  "programmedRecordList": {
+    "title": "Programmed Records",
+    "noRecords": "Add programmed records to see this list",
+    "fallbackText": "Start adding programmed records"
+  },
+  "reports": {
+    "comingSoon": "Coming Soon",
+    "totalSpent": "TOTAL SPENT",
+    "lastMonth": "LAST MONTH",
+    "lastWeek": "LAST WEEK",
+    "lastYear": "LAST YEAR",
+    "avg": "AVERAGE",
+    "records": "RECORDS",
+    "previousExpense": "Previous Expense",
+    "currentExpense": "Current Expense",
+    "income": "Income",
+    "expense": "Expense",
+    "notEnoughData": "Not enough data to display cash flow",
+    "noRecords": "No records",
+    "avgSpentDaily": "AVERAGE DAILY EXPENSES"
+  },
+  "appInfo": {
+    "privacyPolicy": "Privacy Policy",
+    "contactSupport": "Contact & Support",
+    "termsOfService": "Terms of Service & EULA"
+  },
+  "filterOption": {
+    "monthly": "Monthly",
+    "weekly": "Weekly",
+    "yearly": "Yearly"
+  },
+  "sortOption": {
+    "default": "Default",
+    "dateAscending": "Date (Ascending)",
+    "dateDescending": "Date (Descending)",
+    "amountAscending": "Amount (Ascending)",
+    "amountDescending": "Amount (Descending)"
+  },
+  "income": {
+    "amount": "Amount",
+    "title": "Title",
+    "selectCurrency": "Select Currency",
+    "noTitle": "No Title",
+    "noCurrency": "No Currency",
+    "selectCategory": "Select Category",
+    "date": "Date",
+    "programmed": "Programmed",
+    "addProgrammedIncome": "Programmed Income",
+    "income": "Income",
+    "add": "Add",
+    "edit": "Edit",
+    "adding": "Adding",
+    "programmedDescription": "This record will be added automatically on the date you select.",
+    "recurrent": "Recurrent",
+    "addRecurrentIncome": "Recurrent Income",
+    "selectWallet": "Select Wallet"
+  },
+  "expense": {
+    "amount": "Amount",
+    "title": "Title",
+    "selectCurrency": "Select Currency",
+    "noTitle": "No Title",
+    "noCurrency": "No Currency",
+    "selectCategory": "Select Category",
+    "date": "Date",
+    "programmed": "Programmed",
+    "addProgrammedExpense": "Programmed Expense",
+    "expense": "Expense",
+    "add": "Add",
+    "edit": "Edit",
+    "adding": "Adding",
+    "programmedDescription": "This record will be added automatically on the date you select.",
+    "recurrent": "Recurrent",
+    "addRecurrentExpense": "Recurrent Expense",
+    "selectWallet": "Select Wallet"
+  },
+  "record": {
+    "delete": "Delete Record",
+    "edit": "Edit Record"
+  },
+  "selectLanguage": {
+    "title": "Select Language",
+    "save": "Save"
+  },
+  "recurrentRecordList": {
+    "noRecords": "Add recurrent records to see this list",
+    "fallbackText": "Start adding recurrent records"
+  },
+  "infoModal": {
+    "programmedRecords": "Programmed Records",
+    "recurrentRecords": "Recurrent Records",
+    "programmedDescription": "Programmed records will be added automatically on the date selected. Useful for planning your expenses and income in advance.",
+    "recurrentDescription": "Recurrent records will be added automatically every month on the day selected. Useful for controlling your expenses and income in a recurring manner."
+  },
+  "lockScreen": {
+    "title": "Nekonomy Pro",
+    "features": {
+      "fullAccess": "Access to powerful reports",
+      "unlimitedCategories": "Unlimited categories",
+      "unlimitedCurrencies": "Unlimited currencies",
+      "manageCurrencies": "Unlimited wallets"
+    },
+    "button": "Unlock Pro for ",
+    "price": "Monthly Subscription"
+  },
+  "account": {
+    "deleteAccount": "Delete Account",
+    "confirmDelete": "Confirm Delete?"
+  },
+  "wallets": {
+    "title": "Wallets",
+    "addWallet": "Add Wallet",
+    "noWallets": "Add your first wallet",
+    "addWalletPlaceholder": "Bank",
+    "saveChanges": "Save Changes",
+    "allWallets": "All Wallets"
+  },
+  "incomeByWallet": {
+    "title": "Balance per Wallet",
+    "noIncome": "Add income to see this chart"
+  },
+  "reportsConfig": {
+    "title": "Report Categories",
+    "save": "Save",
+    "selectCategories": "Select which categories to include in reports"
+  }
+}

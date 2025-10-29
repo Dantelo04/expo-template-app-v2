@@ -1,0 +1,106 @@
+{
+  "expo": {
+    "name": "Nekonomy",
+    "slug": "finance-tracker-app",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-clean.png",
+    "scheme": "financetrackerapp",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#FEFAE0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "newArchEnabled": true,
+    "jsEngine": "hermes",
+    "ios": {
+      "supportsTablet": false,
+      "backgroundColor": "#FEFAE0",
+      "bundleIdentifier": "com.dantelo.financetrackerapp",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo-clean.png",
+        "backgroundColor": "#FEFAE0"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.dantelo.financetrackerapp",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": [
+            {
+              "scheme": "financetrackerapp"
+            }
+          ],
+          "category": [
+            "BROWSABLE",
+            "DEFAULT"
+          ]
+        }
+      ]
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Figtree-Regular.ttf",
+            "./assets/fonts/Figtree-Medium.ttf",
+            "./assets/fonts/Figtree-SemiBold.ttf",
+            "./assets/fonts/Figtree-Bold.ttf",
+            "./assets/fonts/Figtree-ExtraBold.ttf"
+          ]
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FEFAE0",
+          "image": "./assets/images/logo-clean.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "dark": {
+            "image": "./assets/images/logo-clean.png",
+            "backgroundColor": "#FEFAE0"
+          },
+          "android": {
+            "image": "./assets/images/logo-clean.png",
+            "imageWidth": 200,
+            "resizeMode": "cover",
+            "backgroundColor": "#FEFAE0"
+          },
+          "ios": {
+            "image": "./assets/images/logo-clean.png",
+            "imageWidth": 180,
+            "resizeMode": "contain"
+          }
+        }
+      ],
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-8405489344462136~5137947770",
+          "iosAppId": "ca-app-pub-8405489344462136~8323348467"
+        }
+      ],
+      "expo-localization",
+      "expo-secure-store",
+      "expo-web-browser"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "18c74482-8823-4771-a340-c0fd5ffeb69d"
+      }
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "index": {
+    "title": "Simplifica tus finanzas.",
+    "description": "Lleva el control de tus ingresos y gastos de forma rápida e intuitiva",
+    "continueWithGoogle": "Continuar con Google",
+    "continueWithApple": "Continuar con Apple",
+    "continueWithGoogleDescription": "Inicia con google para guardar tus datos",
+    "continueWithAppleDescription": "Inicia con google o apple para guardar tus datos",
+    "byContinuing": "Al continuar, aceptas nuestros",
+    "termsOfService": "Términos de servicio",
+    "privacyPolicy": "Política de privacidad"
+  },
+  "onboarding": {
+    "title": "Selecciona tu Moneda"
+  },
+  "currencyChange": {
+    "title": "Cambiar Moneda"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "and": "y",
+    "language": "es",
+    "processing": "Procesando..."
+  },
+  "header": {
+    "profile": "Perfil",
+    "account": "Cuenta",
+    "addIncome": "Agregar Ingreso",
+    "addExpense": "Agregar Gasto",
+    "editIncome": "Editar Ingreso",
+    "editExpense": "Editar Gasto",
+    "categories": "Categorías",
+    "changeCurrency": "Cambiar Moneda",
+    "addCurrency": "Agregar Monedas",
+    "reportsConfig": "Excluir Categorías",
+    "programmedRecords": "Programados",
+    "home": "Inicio",
+    "appInfo": "Info de la App",
+    "onboarding": "Selecciona tu Moneda",
+    "selectLanguage": "Seleccionar Idioma",
+    "recurrentRecords": "Recurrentes",
+    "wallets": "Billeteras"
+  },
+  "searchInput": {
+    "placeholder": "Buscar una moneda"
+  },
+  "currencySelector": {
+    "title": "Agregar Moneda",
+    "continue": "Continuar",
+    "error": "Por favor, selecciona una moneda"
+  },
+  "profile": {
+    "changeMainCurrency": "Cambiar Moneda Principal",
+    "categories": "Categorías",
+    "programmedRecords": "Registros Programados",
+    "signOut": "Cerrar Sesión",
+    "appInfo": "Información de la App",
+    "language": "Idioma",
+    "recurrentRecords": "Registros Recurrentes",
+    "account": "Cuenta",
+    "wallets": "Billeteras",
+    "reportsConfig": "Categorías de Reportes"
+  },
+  "categoriesScreen": {
+    "title": "Categorías",
+    "addCategory": "Agregar Categoría",
+    "noCategories": "Añade tu primera categoría",
+    "addCategoryPlaceholder": "Agregar categoría",
+    "saveChanges": "Guardar Cambios"
+  },
+  "signature": {
+    "madeBy": "Hecho por",
+    "dante": "Dante 🚀"
+  },
+  "home": {
+    "lastRecords": "Últimos Registros",
+    "seeAll": "Ver todos",
+    "programmedRecords": "Registros Programados",
+    "recurrentRecords": "Registros Recurrentes"
+  },
+  "tabs": {
+    "home": "Inicio",
+    "records": "Registros",
+    "reports": "Reportes"
+  },
+  "recordList": {
+    "fallbackText": "Añade registros para ver tu historial"
+  },
+  "evaluation": {
+    "totalIncome": "Total de Ingresos",
+    "totalExpenses": "Total de Gastos",
+    "totalBalance": "Balance",
+    "title": "Resumen Financiero"
+  },
+  "exchangeRates": {
+    "title": "Tasas de Cambio",
+    "exchangeRate": "Tasa de Cambio"
+  },
+  "expensePerCategory": {
+    "title": "Gastos por Categoría",
+    "noExpenses": "Añade gastos para ver este gráfico"
+  },
+  "programmedRecordList": {
+    "title": "Registros Programados",
+    "noRecords": "Añade registros programados para ver esta lista",
+    "fallbackText": "Empieza a añadir registros programados"
+  },
+  "reports": {
+    "comingSoon": "Próximamente",
+    "totalSpent": "TOTAL GASTADO",
+    "lastMonth": "MES PASADO",
+    "lastWeek": "SEMANA PASADA",
+    "lastYear": "AÑO PASADO",
+    "avg": "PROMEDIO",
+    "records": "REGISTROS",
+    "previousExpense": "Gastos Anteriores",
+    "currentExpense": "Gastos Actuales",
+    "income": "Ingresos",
+    "expense": "Gastos",
+    "notEnoughData": "No hay suficientes datos para mostrar el flujo de caja",
+    "noRecords": "No hay registros",
+    "avgSpentDaily": "PROMEDIO DE GASTOS DIARIOS"
+  },
+  "appInfo": {
+    "privacyPolicy": "Política de Privacidad",
+    "contactSupport": "Contacto & Soporte",
+    "termsOfService": "Términos de servicio & EULA"
+  },
+  "filterOption": {
+    "monthly": "Mensual",
+    "weekly": "Semanal",
+    "yearly": "Anual"
+  },
+  "sortOption": {
+    "default": "Por defecto",
+    "dateAscending": "Fecha (Ascendente)",
+    "dateDescending": "Fecha (Descendente)",
+    "amountAscending": "Cantidad (Ascendente)",
+    "amountDescending": "Cantidad (Descendente)"
+  },
+  "income": {
+    "amount": "Cantidad",
+    "title": "Título",
+    "selectCurrency": "Seleccionar Moneda",
+    "noTitle": "Sin Título",
+    "noCurrency": "Sin Moneda",
+    "selectCategory": "Seleccionar Categoría",
+    "date": "Fecha",
+    "programmed": "Programado",
+    "addProgrammedIncome": "Ingreso Programado",
+    "programmedDescription": "Este registro se añadirá automáticamente en la fecha que selecciones.",
+    "add": "Agregar",
+    "edit": "Editar",
+    "adding": "Agregando",
+    "income": "Ingreso",
+    "recurrent": "Recurrente",
+    "addRecurrentIncome": "Ingreso Recurrente",
+    "selectWallet": "Seleccionar Billetera"
+  },
+  "expense": {
+    "amount": "Cantidad",
+    "title": "Título",
+    "selectCurrency": "Seleccionar Moneda",
+    "noTitle": "Sin Título",
+    "noCurrency": "Sin Moneda",
+    "selectCategory": "Seleccionar Categoría",
+    "date": "Fecha",
+    "programmed": "Programado",
+    "addProgrammedExpense": "Gasto Programado",
+    "programmedDescription": "Este registro se añadirá automáticamente en la fecha que selecciones.",
+    "add": "Agregar",
+    "edit": "Editar",
+    "adding": "Agregando",
+    "expense": "Gasto",
+    "recurrent": "Recurrente",
+    "addRecurrentExpense": "Gasto Recurrente",
+    "selectWallet": "Seleccionar Billetera"
+  },
+  "record": {
+    "delete": "Borrar Registro",
+    "edit": "Editar Registro"
+  },
+  "selectLanguage": {
+    "title": "Seleccionar Idioma",
+    "save": "Guardar"
+  },
+  "recurrentRecordList": {
+    "noRecords": "Añade registros recurrentes para ver esta lista",
+    "fallbackText": "Empieza a añadir registros recurrentes"
+  },
+  "infoModal": {
+    "programmedRecords": "Registros Programados",
+    "recurrentRecords": "Registros Recurrentes",
+    "programmedDescription": "Los registros programados se crearán automáticamente en la fecha seleccionada. Útiles para planificar tus gastos e ingresos de forma prelimitada.",
+    "recurrentDescription": "Los registros recurrentes se crearán automáticamente todos los meses en el dia que selecciones. Útiles para controlar tus gastos e ingresos de forma recurrente."
+  },
+  "lockScreen": {
+    "title": "Nekonomy Pro",
+    "features": {
+      "fullAccess": "Acceso a poderosos reportes",
+      "unlimitedCategories": "Categorías ilimitadas",
+      "unlimitedCurrencies": "Divisas ilimitadas",
+      "manageCurrencies": "Billeteras ilimitadas"
+    },
+    "button": "Pagar ",
+    "price": "Suscripción mensual"
+  },
+  "account": {
+    "deleteAccount": "Borrar Cuenta",
+    "confirmDelete": "Confirmar Borrado?"
+  },
+  "wallets": {
+    "title": "Billeteras",
+    "addWallet": "Agregar Billetera",
+    "noWallets": "Añade tu primera billetera",
+    "addWalletPlaceholder": "Banco",
+    "saveChanges": "Guardar Cambios",
+    "allWallets": "Todas las Billeteras"
+  },
+  "incomeByWallet": {
+    "title": "Balance por Billetera",
+    "noIncome": "Añade ingresos para ver este gráfico"
+  },
+  "reportsConfig": {
+    "title": "Categorías de Reportes",
+    "save": "Guardar",
+    "selectCategories": "Selecciona qué categorías incluir en los reportes"
+  }
+}
